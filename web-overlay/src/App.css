@@ -1,0 +1,10 @@
+.parallelogram {
+    transform: skew(-20deg);
+}
+
+.parallelogram-elements {
+    transform: skew(+20deg);
+  }
+.text-border{
+    text-shadow: 10px 0 0 #fff, -10px 0 0 #fff, 0 10px 0 #fff, 0 -10px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}

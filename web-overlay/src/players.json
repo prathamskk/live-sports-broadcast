@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Alonso",
+      "avatar":
+        "https://uptwocat.com/player-images/chelsea/Alonso_DAZ_6380-removebg.png"
+    },
+    {
+      "id": 2,
+      "name": "Azpilicueta",
+      "avatar":
+        "https://uptwocat.com/player-images/chelsea/Azpilicueta_DAZ_6538-removebg.png"
+    },
+    {
+      "id": 3,
+      "name": "Barkley",
+      "avatar":
+        "https://uptwocat.com/player-images/chelsea/Barkley_DSC_3280-removebg.png"
+    },
+    {
+      "id": 4,
+      "name": "Chalobah",
+      "avatar":
+        "https://uptwocat.com/player-images/chelsea/Chalobah_DSC_3442-removebg.png"
+    },
+    {
+      "id": 5,
+      "name": "Chilwell",
+      "avatar":
+        "https://uptwocat.com/player-images/chelsea/Chilwell_DAZ_6565-removebg.png"
+    },
+    {
+      "id": 6,
+      "name": "Havertz",
+      "avatar":
+        "https://uptwocat.com/player-images/chelsea/Havertz_DAZ_6562-removebg.png"
+    },
+    {
+      "id": 7,
+      "name": "Christensen",
+      "avatar":
+        "https://uptwocat.com/player-images/chelsea/Christensen_DAZ_6471-removebg.png"
+    },
+    {
+      "id": 8,
+      "name": "Cedric",
+      "avatar":
+        "https://uptwocat.com/player-images/arsenal/Cedric_1100x693.png"
+    },
+    {
+      "id": 9,
+      "name": "Elneny",
+      "avatar":
+        "https://uptwocat.com/player-images/arsenal/Elneny_1100x693.png"
+    },
+    {
+      "id": 10,
+      "name": "Gabriel",
+      "avatar":
+        "https://uptwocat.com/player-images/arsenal/Gabriel_1100x693.png"
+    },
+    {
+      "id": 11,
+      "name": "Holding",
+      "avatar":
+        "https://uptwocat.com/player-images/arsenal/Holding_1100x693.png"
+    },
+    {
+      "id": 12,
+      "name": "Lacazette",
+      "avatar":
+        "https://uptwocat.com/player-images/arsenal/Lacazette_1100x693.png"
+    },
+    {
+      "id": 13,
+      "name": "Lokonga",
+      "avatar":
+        "https://uptwocat.com/player-images/arsenal/Lokonga_1100x693.png"
+    },
+    {
+      "id": 14,
+      "name": "Martinelli",
+      "avatar":
+        "https://uptwocat.com/player-images/arsenal/Martinelli_1100x693.png"
+    }
+  ]
